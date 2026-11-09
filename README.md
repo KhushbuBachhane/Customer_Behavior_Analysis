@@ -1,11 +1,6 @@
 # Customer_Behavior_Analysis
 An end-to-end data analytics project that turns 3,900 retail customer records into business insights. It covers data cleaning, SQL analysis and an interactive dashboard.
 
-# Customer Shopping Behavior Analysis
-
-An end-to-end data analytics project that takes raw retail customer data through **Python (Jupyter)**, **PostgreSQL** and **Power BI** to answer real business questions about revenue, customer segments, products and subscriptions.
-
-
 ---
 
 ## Project Overview
